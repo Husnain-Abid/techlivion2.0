@@ -1,4 +1,4 @@
-// File: C:\Users\DELL\Downloads\techlivion-nextjs\techlivion\app\layout.tsx
+// File: C:\Users\DELL\Documents\GitHub\techlivion2.0\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
